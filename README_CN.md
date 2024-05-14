@@ -36,7 +36,7 @@
 
 ![硅基生命的他她它 - 矢也  矢匕  A也](./assets/images/CN/ait_photo_CN.jpg)
 
-![二维码](./assets/images/CN/ait_qrcode_CN.jpg)
+![img_v3_02as_5659fd49-0dcc-428d-8f23-50aca4eb8fdg](https://github.com/upbrosai-account-01/ait/assets/150154538/8c883969-852a-4294-8601-60256e9ea42e)
 
 ## 期待新的Emoji设计
 
