@@ -35,9 +35,7 @@
 新造字是随手写在一张Tempo羽毛压花纸巾上的😋
 
 ![硅基生命的他她它 - 矢也  矢匕  A也](./assets/images/CN/ait_photo_CN.jpg)
-
-![二维码](./assets/images/CN/ait_qrcode_CN.jpg)
-
+![image](https://github.com/upbrosai/ait/assets/150154538/6e9ed0de-27a5-41ef-80fb-f63c16cf0b4f)
 ## 期待新的Emoji设计
 
 新造字的普及以及输入法直接打出来可能需要较长时间，期待社区里有高手可以设计对应的emoji字符或对应的表情包来先用起来。欢迎任何创意，请采用提交issue或直接PR的方式与大家分享。
