@@ -45,6 +45,10 @@ Currently, translations are not yet available. We welcome contributions to help 
 
 Contributions to this repository are welcome in all languages. Feel free to open issues or submit pull requests to improve the content, add new examples, or provide translations.
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=upbrosai/ait&type=Date)](https://star-history.com/#upbrosai/ait&Date)
+
 ## License
 
 This repository is licensed under the MIT License.
